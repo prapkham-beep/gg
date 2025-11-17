@@ -1,0 +1,1 @@
+export const BILLING_DOCS_URL = 'https://ai.google.dev/gemini-api/docs/billing';

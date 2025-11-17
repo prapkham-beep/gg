@@ -1,0 +1,8 @@
+{
+  "name": "Veo Image Animator",
+  "description": "Upload an image and generate an animated video using the Gemini Veo model.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
